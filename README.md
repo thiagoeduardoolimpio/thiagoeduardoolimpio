@@ -75,7 +75,7 @@ Estou no primeiro semestre e já me apaixonei por algoritmos e desenvolvimento w
 
 <div align="center">
 
-*"Long story short, I survived."* — Taylor Swift 🩷
+*"Long story short, I survived."* — Taylor Swift 🤍
 
 <sub>...e sobrevivi à semana de prova também.</sub>
 
