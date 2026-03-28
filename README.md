@@ -15,11 +15,11 @@
 
 int main() {
     char* nome     = "Thiago";
+    char* instituicao   = "IFSuldeminas";
     char* curso    = "Sistemas de Informação";
-    char* escola   = "IFSuldeminas";
     char* cidade   = "Machado, MG";
-    
-    printf("Olá! Sou %s, estudante de %s no %s.\n", nome, curso, escola);
+   
+    printf("Olá! Sou %s, estudante de %s no %s.\n", nome, curso, instituicao);
     printf("Baseado em %s, aprendendo uma linha de código por vez.\n", cidade);
 
     return 0;
@@ -38,7 +38,9 @@ Estou no primeiro semestre e já me apaixonei por algoritmos e desenvolvimento w
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-1d1d1f?style=for-the-badge&logo=apple&logoColor=f5f5f7)
 
 </div>
 
