@@ -46,14 +46,6 @@ Estou no primeiro semestre e já me apaixonei por algoritmos e desenvolvimento w
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=thiagoeduardoolimpio&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR&background=0d1117&stroke=30363d&ring=888888&fire=aaaaaa&currStreakNum=c9d1d9&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=666666" alt="GitHub Streak" />
-</div>
-
----
-
 ## Gráfico de Atividade
 
 <div align="center">
