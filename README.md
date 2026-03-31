@@ -69,8 +69,6 @@ Estou no primeiro semestre e já me apaixonei por algoritmos e desenvolvimento w
 
 *"Long story short, I survived."* — Taylor Swift 🤍
 
-<sub>...e sobrevivi à semana de prova também.</sub>
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=thiagoeduardoolimpio&label=visitas+ao+perfil&color=888888&style=flat" alt="profile views" />
