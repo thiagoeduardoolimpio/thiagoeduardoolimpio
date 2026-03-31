@@ -26,7 +26,7 @@ int main() {
 }
 ```
 
-Estou no primeiro semestre e já me apaixonei por algoritmos e desenvolvimento web. Tenho uma queda especial por sistemas bem estruturados — e por deixar o código mais limpo do que encontrei.
+Estou no primeiro semestre e já me apaixonei por algoritmos e desenvolvimento web. 
 
 ---
 
