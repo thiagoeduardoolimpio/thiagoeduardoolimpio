@@ -1,20 +1,61 @@
+<div align="center"> 
+  <img src="https://github.com/thiagoeduardoolimpio.png" width="120" style="border-radius:50%"/> 
+  <h2>Thiago</h2> 
+  <sub>thiagoeduardoolimpio · ele/dele</sub> 
+  <p> Estudante de Sistemas de Informação | Construindo software com autoria e cuidado </p> 
+
+  <br> 
+  <h3>🔗 Conecte-se comigo</h3> 
+  <p> 
+    <a href="https://linkedin.com/in/thiagoeduardoolimpio"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  </p> 
+</div> 
+
+<br>
+
+## Sobre mim
+
+Olá, eu sou Thiago — estudante de Sistemas de Informação, focado em construir aplicações web modernas e escaláveis com atenção a estrutura, performance e manutenibilidade a longo prazo.
+
 <div align="center">
+Desenvolvedor Python / Flet / Flutter Apps multiplataforma & lógica sólida Mentalidade forte de colaboração no GitHub
+</div>
 
+## Tecnologias
 
+### Principais Tecnologias
+<p align="center"> 
+  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Zsh-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/> 
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+### Frameworks & Bibliotecas
+<p align="center"> 
+  <img src="https://img.shields.io/badge/-Flet-000000?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white"/> 
+</p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=thiagoeduardoolimpio&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=thiagoeduardoolimpio&layout=compact&langs_count=4&theme=dark)
+### Terminal & Fluxo de Trabalho
+<p align="center"> 
+  Zsh como shell padrão no macOS, com o terminal como ambiente de trabalho principal para desenvolvimento, versionamento e automações do dia a dia. 
+</p>
 
+### Colaboração em Equipe
+<p align="center"> 
+  Experiência em desenvolvimento em equipe usando <b>GitHub</b>, pull requests, code review e fluxos de trabalho estruturados. 
+</p>
 
+## Estatísticas
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoeduardoolimpio&theme=dark&hide_border=true&background=0d1117&locale=pt_BR"/> 
 
-*"Long story short, I survived."* — Taylor Swift 🤍
-
-
-
-<img src="https://komarev.com/ghpvc/?username=thiagoeduardoolimpio&label=visitas+ao+perfil&color=888888&style=flat" alt="profile views" />
+<sub>*"Long story short, I survived."* — Taylor Swift 🤍</sub>
 
 </div>
+  
+  
