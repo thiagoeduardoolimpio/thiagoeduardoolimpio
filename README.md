@@ -2,7 +2,7 @@
   <img src="https://github.com/thiagoeduardoolimpio.png" width="120" style="border-radius:50%"/> 
   <h2>Thiago</h2> 
   <sub>thiagoeduardoolimpio · ele/dele</sub> 
-  <p> Estudante de Sistemas de Informação | Construindo software com autoria e cuidado </p> 
+  <p> Estudante de Sistemas de Informação </p> 
   <br> 
   <h3>🔗 Conecte-se comigo</h3> 
   <p> 
@@ -12,10 +12,10 @@
 <br>
 
 ## Sobre mim
-Olá, eu sou Thiago — estudante de Sistemas de Informação, focado em construir aplicações web modernas e escaláveis com atenção a estrutura, performance e manutenibilidade a longo prazo.
+Olá, eu sou Thiago, estudante de Sistemas de Informação, focado em construir aplicações web modernas e escaláveis com atenção a estrutura, performance e manutenibilidade a longo prazo.
 
 <div align="center">
-Desenvolvedor Python / Flet / Flutter Apps multiplataforma & lógica sólida Versionamento e organização de projetos via GitHub
+Desenvolvedor Python / Flet / Swift & lógica sólida Versionamento e organização de projetos via GitHub
 </div>
 
 ## Tecnologias
@@ -51,7 +51,7 @@ Desenvolvedor Python / Flet / Flutter Apps multiplataforma & lógica sólida Ver
 
 ### Segurança & Análise de Sistemas
 <p align="center"> 
-  Interesse contínuo por segurança ofensiva e funcionamento interno de sistemas — uso de <b>Nmap</b> para reconhecimento de redes, <b>ExifTool</b> para análise de metadados e <b>Ghidra</b> para engenharia reversa. 
+  Interesse contínuo por segurança ofensiva e funcionamento interno de sistemas, uso de <b>Nmap</b> para reconhecimento de redes, <b>ExifTool</b> para análise de metadados e <b>Ghidra</b> para engenharia reversa. 
 </p>
 
 ## Estatísticas
