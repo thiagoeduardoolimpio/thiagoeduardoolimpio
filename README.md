@@ -7,7 +7,8 @@
 <br>
 
 ## Sobre mim
-Olá, eu sou Thiago, estudante de Sistemas de Informação, focado em construir aplicações web modernas e escaláveis com atenção a estrutura, performance e manutenibilidade a longo prazo.
+Oi, me chamo Thiago Eduardo, sou estudante de Sistemas de Informação. Atualmente trabalho desenvolvendo e mantendo alguns projetos pessoais. Majoritariamente uso Python, e C# como linguagem dos meus projetos.
+
 
 ## Estatísticas
 <div align="center">
